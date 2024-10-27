@@ -20,5 +20,7 @@ Key Questions Addressed
 10. Reduced Activity by Gender**: Plot a horizontal bar chart to analyze reduced days of activity due to illness based on gender.
 Importance
 This analysis provides valuable insights that can help healthcare providers tailor their services to meet the needs of patients effectively, ultimately enhancing patient care and improving health outcomes.
+![Screenshot 2024-07-18 174845](https://github.com/user-attachments/assets/0f8099e0-6a00-4bb6-8730-be7f224703f4)
+![Screenshot 2024-07-18 174212](https://github.com/user-attachments/assets/4995642f-a61e-4934-ba13-289348ae931d)
 
 
