@@ -1,8 +1,5 @@
 # Healthcare-Analytics-for-Doctor-Visits
 
-
-# Healthcare Analytics for Doctor Visits
-
 Project Overview
 
 This project leverages data analytics to gain actionable insights into patient demographics, health conditions, and healthcare services utilization. By analyzing a dataset of doctor visits, we aim to help healthcare providers optimize their services and improve patient outcomes.
